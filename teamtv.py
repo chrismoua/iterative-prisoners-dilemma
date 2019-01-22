@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'Tommy'
+team_name = 'Tommy V.'
 strategy_name = 'Error'
 strategy_description = 'return \'\', \' \', or int 4'
 import random
